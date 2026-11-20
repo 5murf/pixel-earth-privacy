@@ -12,7 +12,8 @@ Pixel Earth ("the app") is a walking game. You walk, earn Ink from your steps, a
 - **Painted tiles.** Which tiles you painted, their colour and when.
 
 ## Where it is stored
-On the developer's own server. It is not sold and not shared with advertisers. There are no ads and no third-party analytics in the app.
+On the developer's own server. Your game data is not sold.
+The app shows optional rewarded ads, which you can watch to get extra Ink. Ads are served by Google AdMob. AdMob may collect your device's advertising ID and other device data to show and measure ads. See Google's policy: https://policies.google.com/privacy. There are no other third-party analytics in the app.
 Your last known position is also kept on your phone so the map opens quickly.
 
 ## Sharing
