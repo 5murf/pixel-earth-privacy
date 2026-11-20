@@ -5,8 +5,8 @@ Last updated: 2026-11-19
 Pixel Earth ("the app") is a walking game. You walk, earn Ink from your steps, and paint map tiles.
 
 ## What we collect
-- **Precise location (GPS).** Used while the app is open, to show you on the map and to check that a tile is within reach when you paint. The app does not track you in the background.
-- **Step count.** Read from your phone's step sensor to earn Ink.
+- **Precise location (GPS).** Used while the app is open, to show you on the map and to check that a tile is within reach when you paint. The app does not read your location when it is closed.
+- **Step count.** Read from your phone's step sensor to earn Ink. This also works while the app is closed, so steps you walk then still count. Only the step total is used, never your location.
 - **Account id.** A random guest id made on your phone. If you choose to sign in with Google or Apple, we also store the account's unique id from that provider. We do not receive your password.
 - **Username.** Only if you set one. Other players and the admin can see it.
 - **Painted tiles.** Which tiles you painted, their colour and when.
